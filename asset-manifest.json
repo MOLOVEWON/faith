@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/faith/static/js/main.2b97b47c.js",
+    "index.html": "/faith/index.html",
+    "main.2b97b47c.js.map": "/faith/static/js/main.2b97b47c.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.2b97b47c.js"
+  ]
+}
