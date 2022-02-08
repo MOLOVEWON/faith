@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/faith/static/css/main.e9eb39a7.css",
-    "main.js": "/faith/static/js/main.5c07d3dc.js",
+    "main.css": "/faith/static/css/main.4c79d2f0.css",
+    "main.js": "/faith/static/js/main.2b343a6c.js",
     "index.html": "/faith/index.html",
-    "main.e9eb39a7.css.map": "/faith/static/css/main.e9eb39a7.css.map",
-    "main.5c07d3dc.js.map": "/faith/static/js/main.5c07d3dc.js.map"
+    "main.4c79d2f0.css.map": "/faith/static/css/main.4c79d2f0.css.map",
+    "main.2b343a6c.js.map": "/faith/static/js/main.2b343a6c.js.map"
   },
   "entrypoints": [
-    "static/css/main.e9eb39a7.css",
-    "static/js/main.5c07d3dc.js"
+    "static/css/main.4c79d2f0.css",
+    "static/js/main.2b343a6c.js"
   ]
 }
